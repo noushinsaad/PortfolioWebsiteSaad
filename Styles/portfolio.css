@@ -86,11 +86,13 @@ nav a {
 }
 
 .banner .profile-pic {
-    width: 650px;
+    margin-top: 47px;
+    width: 584px;
     /* margin-left: 38px; */
     /* margin-left: 358px; */
     /* margin-bottom: 0px; */
-    height: 650px;
+    /* height: 676px; */
+
 }
 
 .banner-greetings {
