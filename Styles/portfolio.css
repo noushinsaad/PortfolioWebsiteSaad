@@ -86,8 +86,11 @@ nav a {
 }
 
 .banner .profile-pic {
-    width: 500px;
-    /* height: 500px; */
+    width: 650px;
+    /* margin-left: 38px; */
+    /* margin-left: 358px; */
+    /* margin-bottom: 0px; */
+    height: 650px;
 }
 
 .banner-greetings {
@@ -171,5 +174,37 @@ main section {
     color: #474747;
     font-size: 30px;
     font-weight: 700;
+    margin-bottom: 30px;
+}
 
+.resume-container {
+    display: flex;
+}
+
+.resume-item-title {
+    margin-top: 0px;
+    color: var(--Dark-02, #474747);
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.resume-item-institute {
+    margin-top: 0px;
+    color: var(--Dark-03, #757575);
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.resume-item-description {
+    color: var(--Dark-03, #757575);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+hr {
+    width: 558px;
+    height: 1px;
+    background: #D1D1D1;
 }
