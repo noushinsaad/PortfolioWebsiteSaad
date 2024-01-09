@@ -14,7 +14,7 @@ body {
     padding: 15px 35px;
 }
 
-.contact-btn {
+/* .contact-btn {
     border-radius: 5px;
     background: #FFF8F3;
     border: auto;
@@ -25,10 +25,7 @@ body {
     color: #FD6E0A;
     padding: 15px 35px;
     margin-left: 15px;
-    /* background-image: url('../images/icons/call.png'); */
-    /* background-repeat: no-repeat; */
-    /* background-position: left center; */
-}
+}  */
 
 
 
@@ -86,9 +83,9 @@ nav a {
 /* header realted styles */
 .header {
     background-color: #fff8f3;
-    background-image: url('../images/header_bg.png');
+    background-image: url('../images/header_bg.png'), url('../images/developer.png');
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: bottom right, top left;
 }
 
 .banner {
@@ -104,7 +101,7 @@ nav a {
 
 .banner .profile-pic {
     /* margin-top: 47px; */
-    width: 500px;
+    width: 550px;
     /* margin-left: 38px; */
     /* margin-left: 358px; */
     /* margin-bottom: 0px; */
