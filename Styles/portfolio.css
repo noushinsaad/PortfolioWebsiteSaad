@@ -14,20 +14,6 @@ body {
     padding: 15px 35px;
 }
 
-/* .contact-btn {
-    border-radius: 5px;
-    background: #FFF8F3;
-    border: auto;
-    border-color: #FD6E0A;
-    flex-shrink: 0;
-    font-size: 20px;
-    font-weight: 700;
-    color: #FD6E0A;
-    padding: 15px 35px;
-    margin-left: 15px;
-}  */
-
-
 
 .text-primary {
     color: #FD6E0A;
@@ -197,7 +183,7 @@ main section {
     gap: 50px;
 }
 
-.resume-column{
+.resume-column {
     width: 50%;
 }
 
