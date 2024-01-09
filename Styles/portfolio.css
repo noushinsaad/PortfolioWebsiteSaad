@@ -197,6 +197,10 @@ main section {
     gap: 50px;
 }
 
+.resume-column{
+    width: 50%;
+}
+
 .resume-item-title {
     /* margin-top: 0px; */
     color: #474747;
