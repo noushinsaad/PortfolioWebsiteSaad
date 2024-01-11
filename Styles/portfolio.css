@@ -249,3 +249,46 @@ textarea {
     border: 0px;
     width: 100%;
 }
+
+/* Common Shared Styles */
+
+/* ... (existing styles) ... */
+
+/* Media Query for Phones */
+@media only screen and (max-width: 767px) {
+    body {
+        font-size: 14px; /* Adjust font size for smaller screens */
+    }
+
+    nav {
+        margin: 0 20px; /* Adjust margin for the navigation bar */
+    }
+
+    .banner {
+        padding: 30px 15px 0px 15px;
+    }
+
+    .banner .profile-pic {
+        width: 100%; /* Make the profile picture fill the width of the container */
+    }
+
+    .about {
+        padding: 30px; /* Adjust padding for the about section */
+    }
+
+    .skills-container {
+        flex-direction: column; /* Stack skills vertically on smaller screens */
+    }
+
+    .resume-container {
+        flex-direction: column; /* Stack resume columns vertically on smaller screens */
+    }
+
+    .download-cv {
+        margin-top: 30px; /* Adjust margin for the download CV section */
+    }
+
+    footer {
+        padding: 30px; /* Adjust padding for the footer */
+    }
+}
