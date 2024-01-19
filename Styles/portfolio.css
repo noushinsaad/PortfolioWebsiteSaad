@@ -221,7 +221,7 @@ main section {
 }
 
 /* footer style */
-footer {
+.footer {
     display: flex;
     gap: 100px;
     background: #fff8f3;
@@ -253,9 +253,9 @@ textarea {
 /* responsive styles */
 /* mobile devices */
 
-.hide{
+/* .hide{
     display: none;
-}
+} */
 @media screen and (max-width:576px) {
     .skills-container{
         flex-direction: column;
