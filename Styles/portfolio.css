@@ -148,6 +148,10 @@ main section {
     text-align: center;
 }
 
+.section-description{
+    text-align: center;
+}
+
 /* skills related style */
 
 .skills-container {
@@ -210,6 +214,7 @@ main section {
     color: #757575;
     font-size: 16px;
     font-weight: 400;
+    text-align: start;
     /* line-height: 28px; */
 }
 
