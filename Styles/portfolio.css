@@ -87,7 +87,8 @@ nav a {
 
 .banner .profile-pic {
     /* margin-top: 47px; */
-    width: 550px;
+    width: 650px;
+    /* height: 100%; */
     /* margin-left: 38px; */
     /* margin-left: 358px; */
     /* margin-bottom: 0px; */
@@ -103,8 +104,8 @@ nav a {
 
 .banner-title {
     margin-top: 5px;
-    font-size: 60px;
-    font-weight: 700;
+    font-size: 50px;
+    font-weight: 600;
     margin-bottom: 20px;
 }
 
@@ -185,6 +186,7 @@ main section {
 
 .resume-column {
     width: 50%;
+    text-align: center;
 }
 
 .resume-item-title {
@@ -261,6 +263,7 @@ textarea {
 
     .header{
         background-image: none;
+        /* background-position: bottom; */
     }
 
     .banner{
